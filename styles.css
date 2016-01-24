@@ -1,0 +1,14 @@
+li {
+  display: inline;
+  list-style-type: none;
+}
+
+.navigation {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.main {
+  border: 1px dashed black;
+  width: 90%;
+}

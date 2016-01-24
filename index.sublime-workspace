@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"1",
+				"1em"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"list-",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"list",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pag",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/timmaddux/workspace/my-blog/index.html",
+		"/Users/timmaddux/workspace/exercises/the-static-web/blog/index.html",
+		"/Users/timmaddux/workspace/css2/styles.css",
+		"/Users/timmaddux/workspace/css2/index.html",
+		"/Users/timmaddux/workspace/musichistory-boilerplate/main.css",
+		"/Users/timmaddux/workspace/musichistory-boilerplate/index.html",
+		"/Users/timmaddux/workspace/my-blog/README.md",
+		"/Users/timmaddux/workspace/testreposub/README.md",
+		"/Users/timmaddux/workspace/html1/formsprac.html",
+		"/Users/timmaddux/workspace/html1/index.html",
+		"/Users/timmaddux/workspace/html1/css1/css",
+		"/Users/timmaddux/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/timmaddux/Desktop/untitled.html",
+		"/Users/timmaddux/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/timmaddux/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/timmaddux/workspace/html1/styles.css",
+		"/Users/timmaddux/workspace/filz/main.css",
+		"/Users/timmaddux/workspace/folder/main.html",
+		"/Users/timmaddux/workspace/folder/main.css",
+		"/Users/timmaddux/workspace/folder/main.js",
+		"/Users/timmaddux/workspace/main.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    <section id=\"six\">F</section>\n",
+			"    <section id=\"five\">E</section>\n",
+			"    <section></section>\n",
+			"<br>",
+			"form",
+			"  <p class=\"reminder doodle\">Scratchy</p>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
